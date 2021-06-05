@@ -1,5 +1,5 @@
 # Rename wp-login.php
-
+z34SG@!#jsj980
     Contributors:      maximejobin, iseulde
     Tags:              rename, login, wp-login, wp-login.php, custom login url
     Requires at least: 5.2
